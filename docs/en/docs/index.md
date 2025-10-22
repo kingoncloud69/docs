@@ -1,11 +1,11 @@
 ---
-title: Help imprvoe these docs
+title: Help Improve These Docs
 ---
 
-TL;DR 
+TL;DR
 [How to contribute](https://github.com/worldwide-asset-exchange/docs/wiki)
 
-# Help imprvoe these docs
+# Help Improve These Docs
 
 Creating a seamless and delightful experience for developers is crucial to the success of our project. As part of our commitment to continuously improve, we invite you to contribute your skills and insights to enhance the developer documentation (DX) and make it even better.
 
@@ -20,15 +20,19 @@ We value diversity, collaboration, and open communication. Your contributions wi
 We offer various ways for you to contribute, so choose the method that aligns with your skills and interests:
 
 ### Updating Existing Content
+
 If you notice outdated information, unclear instructions, or areas that need improvement, you can help by updating the existing content. Dive into the documentation, review sections that need attention, and submit your changes or suggestions. Your keen eye for detail will ensure that developers have accurate and up-to-date resources at their fingertips.
 
 ### Creating New Tutorials and Examples
+
 Are you passionate about teaching others? Consider creating new tutorials or examples that demonstrate how to use our tools and technologies effectively. Share your knowledge, insights, and best practices to empower developers with practical, real-world guidance. Your contributions will help developers grasp concepts and solve problems more efficiently.
 
 ### Providing Feedback and Suggestions
+
 If you have ideas or suggestions on how we can improve the developer documentation, we welcome your feedback. Whether it's proposing new sections, suggesting a different structure, or offering insights on overall user experience, your input is invaluable. Help us shape the documentation to better meet the needs of our community.
 
 ### Collaborating with Technical Writers
+
 Our team of technical writers greatly appreciates collaboration. If you have expertise in technical writing, you can work closely with them to refine the content, ensure consistency, and improve the overall readability of the documentation. Your collaboration will contribute to a more polished and professional developer experience.
 
 _Remember, collaboration and open communication are at the core of our community. Reach out to our community or designated channels to connect with fellow contributors, seek guidance, and receive support._
