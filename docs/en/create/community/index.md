@@ -23,7 +23,7 @@ Discover resources to promote your project, build community, and access ecosyste
     <div class="card-body">
       <h3 class="card-title">Community Blogs</h3>
       <p class="card-desc">Blogs are curated and published on WAX.io Medium, shared on Discord and X through official channels. Share your project story and updates.</p>
-      <ActionHighlight label="Get Started" href="https://form.typeform.com/to/s8WRbJs7" />
+      <ActionHighlight label="Get Started" href="https://go.wax.io/blog-submission" />
     </div>
   </div>
 
@@ -31,7 +31,7 @@ Discover resources to promote your project, build community, and access ecosyste
     <div class="card-body">
       <h3 class="card-title">Partnerships</h3>
       <p class="card-desc">Reach out to the WAX team to discuss how they can help make your launch a success on WAX.</p>
-      <ActionHighlight label="Get Started" href="https://form.typeform.com/to/rlcRWmsq" />
+      <ActionHighlight label="Get Started" href="https://go.wax.io/partnership" />
     </div>
   </div>
 </div>
@@ -63,10 +63,18 @@ Discover resources to promote your project, build community, and access ecosyste
   </div>
 </div>
 
-### Represent Your Project
+&nbsp;
 
-<div style="padding-top:1em;">
-  <ActionHighlight label="Project Rep Role in WAX Discord" href="https://form.typeform.com/to/wfIQCQr2" />
+## Represent Your Project
+
+<div class="cards-grid">
+  <div class="card">
+    <div class="card-body">
+      <h3 class="card-title">Project Rep Role in WAX Discord</h3>
+      <p class="card-desc">Apply for the “Project Rep” role by confirming your project’s official account via DM with @WAX_io on X. This sets your representatives apart on the WAX Discord and allows access to some locked channels."</p>
+      <ActionHighlight label="@WAX_io on X" href="https://x.com/WAX_io" />
+    </div>
+  </div>
 </div>
 
 &nbsp;
@@ -150,7 +158,7 @@ Discover resources to promote your project, build community, and access ecosyste
 <style>
 .cards-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(260px, 0.5fr));
   gap: 20px;
 }
 
@@ -183,7 +191,7 @@ Discover resources to promote your project, build community, and access ecosyste
   content: '';
   position: absolute;
   inset: 0;
-  background: linear-gradient(180deg, rgba(0,0,0,0) 30%, rgba(0,0,0,.40) 85%);
+  background: linear-gradient(180deg, rgba(0,0,0,0) 30%, rgba(0,0,0,.20) 85%);
   pointer-events: none;
 }
 
